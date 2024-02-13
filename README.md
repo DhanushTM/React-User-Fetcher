@@ -9,7 +9,7 @@ Check out the live demo [here](https://reactuserinfo.netlify.app/)
 4.Utilizes React hooks and functional components.<br>
 5.Built using TypeScript (.tsx) for type safety.<br>
 ## How to run locally
-1.git clone : git clone https://github.com/DhanushTM/react-user-info.git<br>
+1.git clone : git clone https://github.com/DhanushTM/React-User-Fetcher.git<br>
 2.npm install or yarn install<br>
 3.npm start or yarn start<br>
 ## Technologies used
